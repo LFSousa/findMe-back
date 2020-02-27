@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: findMe-back
+  IMAGE_NAME: findme-back
 
 jobs:
   # Run tests.
